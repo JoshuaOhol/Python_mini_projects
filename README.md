@@ -1,7 +1,7 @@
 # Python_mini_projects
 Beginner Python projects demonstrating programming fundamentals and problem-solving.
 
-# Python Mini Projects
+
 
 A collection of beginner Python projects created while learning
 Python programming fundamentals.
@@ -51,7 +51,3 @@ Concepts used:
 - User input
 - Arithmetic operators
 - Basic Python logic
-
-## Technologies
-
-- Python
